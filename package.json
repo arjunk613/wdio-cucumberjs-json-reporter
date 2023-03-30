@@ -50,7 +50,7 @@
         "webdriverio": "~8.3.5"
     },
     "peerDependencies": {
-        "@wdio/cucumber-framework": "7.x"
+        "@wdio/cucumber-framework": "8.x"
     },
     "devDependencies": {
         "@babel/preset-env": "^7.20.2",
