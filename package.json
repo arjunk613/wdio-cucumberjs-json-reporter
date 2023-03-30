@@ -1,5 +1,5 @@
 {
-    "name": "wdio-cucumberjs-json-reporter",
+    "name": "wdio-cucumberjs-json-reporter-ccw-config",
     "version": "4.4.3",
     "description": "A WDIO reporter that creates CucumberJS JSON files for WebdriverIO V5+",
     "main": "./dist/reporter.js",
